@@ -1,14 +1,14 @@
 body{
   width: 1200px;
   margin: 0 auto;
-  background-color: rgb(197, 123, 232);
+  background-color: rgb(123, 232, 172);
   margin:50px;
   background-repeat: no-repeat;
   background-image:
  
   linear-gradient(rgba(237, 243, 238, 0.6), rgba(70, 226, 130, 0.6)),
   
-  url("/Users/nilufersevdeozdemir/repos/odin-recipes/recipes/mucverresmi/Screen Shot 2022-12-03 at 20.00.45.png");
+  url("../recipes/mucverresmi/Screen Shot 2022-12-03 at 20.00.45.png");
 }
 
 
