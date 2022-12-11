@@ -3,35 +3,30 @@
   padding:0;
 }
 
-
 h1 {
   background-color: aqua;
   color: white;
-  font-size: 32px;
+  font-size: 60px;
   text-align: center;
   font-weight: bold;
   padding:20px;
-  border-top-width:20 px;
-  border-bottom-width:40 px;
-  border-right-width:40 px;
-  border-left-width:20 px;
+  border-width: 10px 1rem 10px 1rem;
   border-style:solid;
-  border-color:rgb(10, 227, 89);
-  margin:20 px;
+  border-color:green;
+  margin: 25px 50px 25px 50px;
 }
-  
-p {
-    color: red;
-  }
 
-
-  .button {
+.button {
     background-color:rgb(132, 154, 242);
-    border-radius: 5px;
+    border-radius: 10px 20px;
     color: white;
-    padding: 30px 50px;
+    padding: 5px 5px 5px 5px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 18px;
-  }
+    display:block;
+    font-size: 40px;
+    width: 200px;
+    margin:0 auto;
+  
+
+}

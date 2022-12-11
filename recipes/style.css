@@ -1,16 +1,35 @@
+body{
+  width: 1200px;
+  margin: 0 auto;
+  background-color: rgb(197, 123, 232);
+  margin:50px;
+  background-repeat: no-repeat;
+  background-image:
+ 
+  linear-gradient(rgba(237, 243, 238, 0.6), rgba(70, 226, 130, 0.6)),
+  
+  url("/Users/nilufersevdeozdemir/repos/odin-recipes/recipes/mucverresmi/Screen Shot 2022-12-03 at 20.00.45.png");
+}
+
+
 div {
-    background-color: red;
+    background-color: rgb(128, 65, 65);
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+    font-family:"Times New Roman", Times, serif;
+    margin:10px 0px 0px 0px;
+    padding:5px 5px 5px 5px;
   }
   
 p {
-    background-color: green;
+    background-color: rgb(31, 47, 31);
     color: white;
     font-size: 18px;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    padding:10px 5px 10px 10px;
+    margin:1rem;
   }
 
 div {
@@ -21,4 +40,13 @@ div {
 .image{
     width: 400px;
     height: auto;
+    margin:20px 10px 10px 10px;
+}
+
+.highlight{
+  background-color: yellowgreen;
+}
+
+h5{
+  margin:10px;
 }
